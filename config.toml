@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "aditya.studio"
 theme = "ghostwriter"
+author = "Aditya"
 
 [Params]
     mainSections = ["post"]
@@ -14,6 +15,7 @@ theme = "ghostwriter"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
+    author = "Aditya Tibrewal"
 
 [Permalinks]
     post = "/:filename/"
